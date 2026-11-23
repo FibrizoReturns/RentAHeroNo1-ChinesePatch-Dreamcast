@@ -1,5 +1,10 @@
 # 安装与校验
 
+## 0. 从哪拿
+
+- 发布视频（B 站）：<https://www.bilibili.com/video/BV1cwyHztEvh/>
+- 成品盘（百度网盘）：<https://pan.baidu.com/s/1uVhPdS8dgKTvV8wQxIM8EQ?pwd=qdpa> 提取码 `qdpa`
+
 ## 1. 文件清单
 
 成品盘解压后是这 4 个文件，**必须放在同一层目录**（不要拆开、不要改名）：
