@@ -51,7 +51,7 @@ The Parameter page labels — the tab headers (アイテム / カギ / バトル
 
 Also intentionally untouched: save/load prompts (save data format is not touched by design), track titles, the name-entry page (kana chart is a PVR texture, not font), and the opening 2D pixel-art cutscenes and the mystery-note puzzle, whose text lives in standalone scripts rather than the 42 text pools.
 
-## Why this game has only three translations
+## Why so few translations exist
 
 The difficulty is roughly four times that of a *Shenmue* fan translation, and not because of encryption — SEGA simply pushed the Dreamcast hardware to its limits to build this game, and much of the data layout is welded to runtime behaviour. Touching one thing forces repairs across a dozen others, and the number of usable entry points is tiny. As of 2026 the translations are: Japanese original (2000), an English patch by the Rent-A-Modders team / VincentNL (2023), a Korean patch (2026), and this Simplified Chinese release (2026.11).
 
