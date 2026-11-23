@@ -1,0 +1,22 @@
+出租英雄 No.1 简体中文汉化 v3 — 成品盘校验值
+Rent-A-Hero No.1 (SEGA Dreamcast, HDR-0074) Simplified Chinese v3 — checksums
+
+校验方式 / How to verify
+  Windows PowerShell : Get-FileHash -LiteralPath '.\track03.bin' -Algorithm MD5
+  Linux / macOS      : md5sum track03.bin
+
+文件 / Files
+  RentAHeroV3.gdi       88            (text, 3 tracks)
+  track01.bin           13968528      651C16CF64D731DD871F9AD002AB3805
+  track02.raw           1735776       D09BE539A7074A058159505B7F5FDCB3
+  track03.bin           1185760800    27180546005E35BC30B9A2C6B9BC11DD
+
+说明 / Notes
+  - track01.bin 与 track02.raw 为原盘原样，未改动。
+  - track03.bin 是数据轨，字库与全部文本都在其中，是唯一被改动的文件。
+  - 只需核对 track03.bin；另外两条不一致通常说明解压过程出错。
+  - gdi 内容（3 tracks）：
+        1 0 4 2352 track01.bin 0
+        2 6089 0 2352 track02.raw 0
+        3 45000 4 2352 track03.bin 0
+    若手工重建 gdi，请照抄以上三行，文件名大小写需一致。
