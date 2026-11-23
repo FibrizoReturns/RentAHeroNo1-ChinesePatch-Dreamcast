@@ -2,6 +2,8 @@
 
 **中文版文档：[README.md](README.md)**
 
+![Rent-A-Hero No.1 Simplified Chinese v3 — title screen](screenshots/标题_汉化v3.png)
+
 SEGA · Dreamcast · Japan 2000 (HDR-0074) · Simplified Chinese · released 2026.11 · by [@FibrizoReturns](https://space.bilibili.com/)
 
 > This repository holds **documentation, checksums, screenshots and release notes only**. It contains no game image, no original disc data and no pre-patched disc. Please own the original disc.
@@ -53,7 +55,16 @@ Also intentionally untouched: save/load prompts (save data format is not touched
 
 ## Why so few translations exist
 
-The difficulty is roughly four times that of a *Shenmue* fan translation, and not because of encryption — SEGA simply pushed the Dreamcast hardware to its limits to build this game, and much of the data layout is welded to runtime behaviour. Touching one thing forces repairs across a dozen others, and the number of usable entry points is tiny. As of 2026 the translations are: Japanese original (2000), an English patch by the Rent-A-Modders team / VincentNL (2023), a Korean patch (2026), and this Simplified Chinese release (2026.11).
+The difficulty is roughly four times that of a *Shenmue* fan translation, and not because of encryption — SEGA simply pushed the Dreamcast hardware to its limits to build this game, and much of the data layout is welded to runtime behaviour. Touching one thing forces repairs across a dozen others, and the number of usable entry points is tiny.
+
+As of 2026, four versions exist:
+
+| Version | Date | Author |
+|---|---|---|
+| Japanese original | 2000-05 | SEGA / Aspect |
+| English patch | 2023 | Rent-A-Modders (VincentNL et al.) |
+| Korean patch | 2026-09-10 (v0.5) → 2026-09-24 (v0.8) | 흐음 |
+| Simplified Chinese | 2026-11 | this release |
 
 ## Copyright
 
